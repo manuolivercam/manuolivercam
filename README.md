@@ -16,7 +16,8 @@ Atualmente, estou vivendo um dos meus maiores sonhos: cursar Sistemas de Informa
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" />         
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3c8be119-7b81-47d7-a9b7-f4029c79d943" />
+     
 </p>
 
 ## 🗣 Habilidades Sociais
@@ -36,7 +37,7 @@ Atualmente, estou vivendo um dos meus maiores sonhos: cursar Sistemas de Informa
 
 ## 📞 Contatos
 <div>
-  <a href = "mailto:manuolivercam@usp.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:manuolivercam@usp.br"><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8aa148e0-444a-4995-b8d9-191b92cc64ce" /></a>
   <a href="https://www.linkedin.com/in/manuolivercam" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"  /></a>
           
 </div>
