@@ -1,16 +1,36 @@
-## Hi there 👋
+## 🧿 Manuela Campos
+Seja bem-vindo(a) ao meu perfil!
 
-<!--
-**manuolivercam/manuolivercam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, tudo bem? Eu sou a Manu, uma estudante movida por desafios e com sede de crescimento. Minha filosofia é simples: dedicar-me ao máximo em tudo que faço, transformando obstáculos em oportunidades de aprendizado. Sou técnica em Análise e Desenvolvimento de Sistemas pela ETEC-SP, onde adquiri conhecimentos sólidos em programação, banco de dados e desenvolvimento de sistemas. 
 
-Here are some ideas to get you started:
+Atualmente, estou vivendo um dos meus maiores sonhos: cursar Sistemas de Informação na USP, a melhor universidade da América Latina. Esse novo capítulo representa não apenas um salto acadêmico, mas a chance de aplicar meu conhecimento em projetos ainda mais desafiadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 Linguagens e Tecnologias
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />         
+</p>
+
+🗣 Habilidades Sociais
+<ul>
+  <li>Comunicação eficaz</li>
+  <li>Colaboração em equipe</li>
+  <li>Adaptabilidade a novos cenários</li>
+  <li>Resolução de problemas</li>
+  <li>Proatividade e sede de crescimento</li>
+</ul>
+
+📊 Estatísticas
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
+</p>
