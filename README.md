@@ -31,6 +31,6 @@ Atualmente, estou vivendo um dos meus maiores sonhos: cursar Sistemas de Informa
 
 📊 Estatísticas
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
+<img src="https://github-readme-stats.vercel.app/api?username=manuolivercam&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuolivercam&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas" />
 </p>
